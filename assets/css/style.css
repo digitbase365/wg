@@ -1290,7 +1290,7 @@ footer {
 		margin-top: 5px;
 	}
 	.logo .bx{
-		width: 50px;
+		width: 75px;
 		height: 75%; 
 	}
 	.logo .bx img{
@@ -1310,6 +1310,11 @@ footer {
 	}
 	.hero-con .container-fluid .welcome p{
 		font-size: 0.95rem;
+	}
+
+	#bg{
+		position:fixed; 
+			background: url(/images/bg/01.jpg) no-repeat center top 70% / cover;
 	}
 
 	/* Footer */
